@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "plantuml",
+    "packageVersion": "0.0.1",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

@@ -1,0 +1,23 @@
+[
+    "index.md",
+    [
+        "graphviz.md",
+        "graphviz-demo.md"
+    ],
+    "diagram-types.md",
+    [
+        "example.md",
+        "example-demo01.md",
+        "example-demo02.md",
+        "example-demo03.md",
+        "example-demo04.md",
+        "example-demo05.md"
+    ],
+    [
+        "plugins.md",
+        "plugins1.md",
+        "plugins2.md",
+        "plugins3.md"
+    ],
+    "usage.md"
+]

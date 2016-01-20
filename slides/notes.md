@@ -1,0 +1,3 @@
+- graphviz: 2004
+- license: GPL
+- highly customizable (skins)
